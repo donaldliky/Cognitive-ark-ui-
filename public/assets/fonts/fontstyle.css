@@ -1,0 +1,39 @@
+@font-face {
+    font-family: VALORANT;
+    src: url(./Valorant\ Font.ttf);
+}
+
+@font-face {
+    font-family: FuturaStd-Heavy;
+    src: url(Futura\ Std\ Heavy.otf) format("opentype");
+}
+
+@font-face {
+    font-family: FuturaStd-Medium;
+    src: url(Futura\ Std\ Medium.otf) format("opentype");
+}
+
+@font-face {
+    font-family: FuturaStd-Bold;
+    src: url(Futura\ Std\ Bold.otf) format("opentype");
+}
+
+@font-face {
+    font-family: FuturaStd-Book;
+    src: url(FuturaStd-Book.ttf);
+}
+
+@font-face {
+    font-family: FuturaStd-HeavyOblique;
+    src: url(Futura\ Std\ Heavy\ Oblique.otf) format("opentype");
+}
+
+@font-face {
+    font-family: MyriadPro-Regular;
+    src: url(Myriad\ Pro\ Regular.ttf);
+}
+
+@font-face {
+    font-family: 'AnimeAce2.0BB';
+    src: url(animeace2_reg.otf) format("opentype");
+}

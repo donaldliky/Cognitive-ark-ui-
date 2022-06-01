@@ -1,0 +1,31 @@
+.widget-wrapper-NXQfsS {
+    align-items: flex-start;
+    display: flex;
+    min-width: 852px;
+    position: absolute;
+    top: -300px;
+    right: 0px;
+    z-index: -3;
+}
+
+.messiah-H4QoHh {
+    object-fit: cover;
+    width: 100%;
+}
+
+.widget-wrapper-n9dWxW {
+    align-items: flex-start;
+    display: flex;
+    /* width: 100%; */
+    position: absolute;
+    top: 0;
+    right: 0px;
+    width: 60%;
+    height: 100%;
+    z-index: -4;
+}
+
+.circuitries-mHJjGY {
+    object-fit: cover;
+    width: 450%;
+}
